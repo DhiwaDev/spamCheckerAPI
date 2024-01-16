@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "password",
+    "database": "spamcheck_api",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
